@@ -11,7 +11,7 @@
 ## 📸 效果预览
 
 <img width="1916" height="872" alt="image" src="https://github.com/user-attachments/assets/4c4b8a34-60c5-4dd3-8efb-6d418d921500" />
-
+</br>
 
 生成的 HTML 报告包含：
 - 🔥 热门话题 TOP N（含浏览量、讨论人数，整卡可点击跳转话题页）
